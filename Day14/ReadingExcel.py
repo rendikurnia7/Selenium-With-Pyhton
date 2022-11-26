@@ -3,7 +3,7 @@ import openpyxl
 
 #File--->Workbook-->Sheets--->Rows--->Cells
 
-file="C:\\Users\\RezaRendi\\PycharmProjects\\pythonProject\\selenium\\Day14\\TestFile.xlsx"
+file="C:\\Users\\RezaRendi\\PycharmProjects\\pythonProject\\Selenium with Python\\Day14\\TestFile.xlsx"
 workbook=openpyxl.load_workbook(file)
 sheet=workbook["Sheet1"]
 

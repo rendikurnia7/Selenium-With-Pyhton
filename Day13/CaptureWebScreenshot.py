@@ -12,7 +12,7 @@ driver=webdriver.Chrome(service=serv_obj)
 
 driver.get("https://demo.nopcommerce.com/")
 driver.maximize_window()
-#driver.save_screenshot("C:\\Users\\RezaRendi\\PycharmProjects\\pythonProject\\selenium\\Day13\\homepage.png")
+driver.save_screenshot("C:\\Users\\RezaRendi\\PycharmProjects\\pythonProject\\Selenium with Pyton\\Day13\\homepage.png")
 #driver.save_screenshot(os.getcwd()+"\\homepage.png")
 #driver.get_screenshot_as_file(os.getcwd()+"\\homepage.png")
 
