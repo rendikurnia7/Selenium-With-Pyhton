@@ -1,0 +1,45 @@
+Day 3
+-------
+
+xpath
+-----
+Xpath is defined as XML path
+it is a syntax for finding anyelement on webpage using XML path expression
+Xpath is used to find the location of any element on webpage using HTML DOM structure
+Xpath can be used to navigate through element and attributes in DOM
+Xpath is an address of the element
+
+
+Diffrent between Absolute & relative Xpaths
+1) Absolute Xpath starts from root HTML node
+   Relative Xpath directly jump to element on DOM
+
+2) Absolute Xpath start with /
+   Relative Xpath start with //
+
+3) in Absolute Xpath we use only tags/nodes
+   in Relative Xpath we use attributes.
+
+syntax of writting relative Xpath
+-------
+//tagname[@attribute='value']
+
+//input[@id='small-searchterms']
+//*[@id='small-searchterm']
+
+
+reason to prefer relative Xpath
+1) If developer inroduced new element then absolute Xpath will broken
+2) If developer change the element then absolute Xpath will broken
+
+absolute Xpath is unstable....
+
+
+
+Xpath options
+--------
+and
+or
+contains()
+start-with()
+text()

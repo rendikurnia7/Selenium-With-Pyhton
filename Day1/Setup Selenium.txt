@@ -1,0 +1,12 @@
+1) Download Webdriver, Pychamp Put in C:
+2) Install Selenium in Pychamp from setting
+
+
+Test case
+-------
+1)Open Web browser
+2) Open URL: https://opensource-demo.orangehrmlive.com/
+3) Enter Username & Passord
+4) Click on Login
+5) Capture Title from homepage
+6) close browser

@@ -1,0 +1,41 @@
+Day 5
+-----
+
+1) get commands
+2) condittional commands
+3) browser commands
+4) navigational commands
+5) wait commands
+
+
+Application commands
+------
+get()		- opening the application URL
+title		- to capture the title of current webpage
+current_url	- to capture the current URL of webpage
+page_source	- to capture source code of the page
+
+
+conditional commands
+-------
+is_displayed()
+is_enabled()
+is_selected()
+
+
+browser commands
+------
+close()	- close single tab current window
+quit()	- close multiple browser window
+
+
+navigation commands
+------
+back()
+foward()
+refresh()
+
+
+find_element() vs find_elements()
+
+text vs get_attribute('value')

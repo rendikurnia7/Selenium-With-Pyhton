@@ -1,0 +1,24 @@
+Day 8
+-------
+
+Handle Frame
+switch_to.frame(name of the frame)
+switch_to.frame(id of the frame)
+switch_to.frame(web element)
+switch_to.frame(0)
+
+switch_to.default_content()
+
+frame
+ifrem
+form
+
+inner frames
+
+
+browser windows
+---------
+switch_to.window(WindowID)
+
+current_window_handle	----> Return windowID of single window
+window_handles		----> Return Window ID's of multiple browser Windows

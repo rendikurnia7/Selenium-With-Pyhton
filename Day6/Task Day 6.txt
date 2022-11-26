@@ -1,0 +1,28 @@
+Day 6
+-------
+wait commands
+-------
+
+
+1) time.sleep(time in second)
+
+	Adv : simple to use
+	DisAdv
+	---
+	1) performance of script very poor
+	2) If element isn't available within the time mentioned, still there is a change of getting exception
+
+2) Implicit wait
+	Adv
+	---
+	1) Single statement
+	2) Performance will not reduced.(If element is available wtihin the time it proceed to execute further statments.
+
+	DisAdv
+	-----
+	If element isn't available within the time mentioned, still there is a change of getting exception
+	
+
+3) Explicit wait
+
+	Explicit wait work based on condition

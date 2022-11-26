@@ -1,0 +1,16 @@
+Task 13
+--------
+1. Boostrap dropdown
+2. Capture Screenshoot
+3. Open new Tab and window
+4. Handle Cookies
+
+
+How To Handle Cookies
+-------
+
+Cookie----->	name='xyz'
+		value=1234
+		expirydate=date
+		------
+		   -----

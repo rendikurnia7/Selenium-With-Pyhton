@@ -1,0 +1,6 @@
+Day-9
+-------
+WebTable
+
+Static webTable
+Dynamic webTable

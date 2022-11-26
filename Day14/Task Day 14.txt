@@ -1,0 +1,20 @@
+Day 14
+-------
+Data Driven Testing
+-----
+
+openpyxl - could work with excel files(.xlsx)
+
+1) install openpyxl package
+2) Read data from excel
+3)How to Write data into exel
+
+4)data driven test case
+
+File--->Workbook-->Sheets--->Rows--->Cells
+
+Reading
+data=sheet.cell(r,c).value
+
+Writing
+sheet,cell(r,c).value="Testing"

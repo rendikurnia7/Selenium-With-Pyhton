@@ -1,0 +1,9 @@
+Day 7
+-------
+Checkbox
+
+Links
+-----
+1) Internal Link
+2) External Link
+3) Broken Link
